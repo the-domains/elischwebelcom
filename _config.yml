@@ -1,3 +1,4 @@
+layout_spectrum: 0.2884846564847976
 typography_spectrum: 0.6011616687756032
 color:
   brandStrength: 0.8231053038034588
@@ -5,12 +6,9 @@ color:
   saturation: 0.09582640905864537
   rhythmicContrast: 0.9335169857367873
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.2884846564847976
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: elischwebel.com
-title: Eli Schwebel
-description: "Hearts Mind\_"
