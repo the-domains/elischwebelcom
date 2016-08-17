@@ -1,0 +1,14 @@
+layout_spectrum: 0.2884846564847976
+typography_spectrum: 0.6011616687756032
+color:
+  brandStrength: 0.8231053038034588
+  lightness: 0.7459799177013338
+  saturation: 0.09582640905864537
+  rhythmicContrast: 0.9335169857367873
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: elischwebel.com
